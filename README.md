@@ -7,6 +7,9 @@ Four deep learning models for automated segmentation of ROI regions, respectivel
 ```
 ．Python, Keras, Tensorflow
 ```
+## Result
+![圖片1](https://user-images.githubusercontent.com/48405514/200514097-26c51927-5698-4135-93bb-51a89358a282.png)
+
 
 ### Unet  
 ![unet](https://user-images.githubusercontent.com/48405514/200512009-395f8d0c-0e5b-4f4e-8bf7-78780520cc49.png)  
